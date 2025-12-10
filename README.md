@@ -1,6 +1,4 @@
------
 
-````markdown
 # 🛒 Node.js REST API Shop
 
 ![Node.js](https://img.shields.io/badge/Node.js-v14+-green.svg)
