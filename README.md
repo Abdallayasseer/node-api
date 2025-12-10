@@ -104,7 +104,7 @@ http://localhost:3000
 | ------ | ------------------ | ----------------- |
 | POST   | /api/auth/register | Register new user |
 | POST   | /api/auth/login    | Login user        |
-| GET    | /api/auth/me       | Get current user  |
+
 
 ### ✅ Users (Protected)
 

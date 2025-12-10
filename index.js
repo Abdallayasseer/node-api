@@ -14,6 +14,7 @@ app.use(express.urlencoded({ extended: true }));
 // Routes
 app.use("/api/product", ProductRoutes);
 app.use("/api/user", UserRoutes);
+app.use("/api/auth", UserRoutes);
 
 // Connect to MongoDB
 const url = process.env.MONGODB_URL;
